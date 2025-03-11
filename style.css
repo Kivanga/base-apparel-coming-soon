@@ -106,9 +106,9 @@ body {
 
 .submit-btn {
     position: absolute;
-    right: 0;
-    top: -5px;
-    height: 59px;
+    right: -7px;
+    top: -7px;
+    height: 65px;
     padding: 0 2rem;
     border: none;
     border-radius: 50%;
